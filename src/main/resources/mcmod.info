@@ -1,0 +1,9 @@
+[
+{
+  "modid": "cdk_minimap",
+  "name": "Minimap Mod",
+  "version": "${version}",
+  "description": "A basic minimap mod.",
+  "authorList": ["Cadmik"]
+}
+]
